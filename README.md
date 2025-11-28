@@ -4,7 +4,7 @@
 <div align="center">
   
   <!-- Typing Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Pradeep+Kumar;Senior+Backend+%2F+Full+Stack+Engineer;Java+%7C+NestJS+%7C+Microservices+%7C+PostgreSQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Pradeep+Kumar;You +Call+Me+PK 😉;Senior+Backend+%2F+Full+Stack+Engineer;Java+%7C+NestJS+%7C+Microservices+%7C+PostgreSQL" />
   
   <!-- Short subtitle -->
   <p><b>Building scalable backend systems, clean architectures, and API-first platforms.</b></p>
