@@ -28,8 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Comera Pay** – an fintech organisation [Comera Pay](https://comerapay.com)  
-- 🔭 Currently own on **Gravexis** – an online construction equipment rental platform   
+- 🔭 Currently working on **Comera Pay** – an fintech organisation 🔗[**ComeraPay**](https://comerapay.com)  
 - 🧠 Strong in **Node, Typescript, NestJS, Microservices, Java, Mongo DB, Redis**  
 - 🧩 Interested in **DDD, Clean Architecture, Hexagonal Design**  
 - 🌱 Leveling up in **System Design & Cloud-native patterns**  
