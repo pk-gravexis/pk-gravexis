@@ -93,44 +93,41 @@
       FEATURED / PINNED PROJECTS
 ========================= -->
 
-<h3>📦 Featured Work</h3>
+<h2 align="center">📦 Featured Work</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-      <b>🏗 Gravexis Platform</b>  
-      <sub>Construction machinery rental – end-to-end workflow</sub>  
+  <a href="https://github.com/pk-gravexis/gravexis-backend" target="_blank" style="text-decoration:none;">
+    <div style="
+        display: inline-block;
+        background: linear-gradient(145deg, #0d1117, #161b22);
+        border: 1px solid #30363d;
+        border-radius: 15px;
+        padding: 20px;
+        width: 90%;
+        max-width: 600px;
+        text-align: left;
+        box-shadow: 0 0 10px rgba(0,0,0,0.3);
+        margin: 10px auto;
+        color: #C9D1D9;
+    ">
+      <h3>🏗 Gravexis Platform</h3>
+      <p><i>Construction machinery rental – end-to-end workflow</i></p>
 
-      - 🧱 Microservices with **NestJS / Java**  
-      - 💳 Booking, payments, contracts, and tracking  
-      - 📦 DDD-based modular structure  
-      - 🗄 PostgreSQL + Redis for caching  
+      <ul>
+        <li>🧱 Microservices with <b>NestJS / Node.js</b></li>
+        <li>💳 Booking, payments, contracts, and tracking</li>
+        <li>📦 DDD-based modular structure</li>
+        <li>🗄 MongoDB + Redis for caching</li>
+      </ul>
 
-      <br/>
-      <a href="https://github.com/pk-gravexis/gravexis-backend">
-        🔗 Backend Repo
-      </a>
+      <p align="right">
+        <b>🔗 <a href="https://github.com/pk-gravexis/gravexis-backend" style="color:#58a6ff;">View Backend Repo</a></b>
+      </p>
+    </div>
+  </a>
 
-    </td>
-    <td width="50%" valign="top">
-
-      <b>🧾 Subscription Billing Service</b>  
-      <sub>API-first microservice for plans, subscriptions & payments</sub>  
-
-      - 📡 Built with **NestJS + PostgreSQL**  
-      - 🧩 Clean architecture, use cases & domain layers  
-      - 🔄 Webhooks for external payment gateway  
-      - ✅ Full testable service boundaries  
-
-      <br/>
-      <a href="https://github.com/pk-gravexis/subscription-billing-service">
-        🔗 Service Repo
-      </a>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
