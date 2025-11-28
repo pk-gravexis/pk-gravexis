@@ -77,7 +77,7 @@
 - 📦 DDD-based modular structure  
 - 🗄 MongoDB + Redis for caching  
 
-🔗 [**View Backend Repo →**](https://github.com/pk-gravexis/gravexis-backend)
+🔗 [**View Backend Repo →**](https://github.com/gravexis/gravexis-equiphire)
 
 ---
 
