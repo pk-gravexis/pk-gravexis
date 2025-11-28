@@ -21,7 +21,7 @@
 
 **Languages**
 
-`Java` · `TypeScript` · `JavaScript` · `SQL`
+`Node` · `Java` · `TypeScript` · `JavaScript` · `SQL`
 
 **Backend**
 
@@ -33,7 +33,7 @@
 
 **Database & Messaging**
 
-`PostgreSQL` · `MySQL` · `Redis` · `Kafka` (if you use it)
+`PostgreSQL` · `MySQL` · `Redis`
 
 **DevOps & Tools**
 
