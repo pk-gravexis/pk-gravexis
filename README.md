@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Comera Pay** – an fintech organisation 🔗[**ComeraPay**](https://comerapay.com)  
+- 🔭 Currently working in **Comera Pay** – an fintech organisation 🔗[**ComeraPay**](https://comerapay.com)  
 - 🧠 Strong in **Node, Typescript, NestJS, Microservices, Java, Mongo DB, Redis**  
 - 🧩 Interested in **DDD, Clean Architecture, Hexagonal Design**  
 - 🌱 Leveling up in **System Design & Cloud-native patterns**  
