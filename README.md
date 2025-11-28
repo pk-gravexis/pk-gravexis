@@ -29,7 +29,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Gravexis** – an online construction equipment rental platform  
-- 🧠 Strong in **Java, Spring Boot, NestJS, Microservices, PostgreSQL, Redis**  
+- 🧠 Strong in **Node, Typescript, NestJS, Microservices, Java, Mongo DB, Redis**  
 - 🧩 Interested in **DDD, Clean Architecture, Hexagonal Design**  
 - 🌱 Leveling up in **System Design & Cloud-native patterns**  
 - 💬 Love discussing **performance, scalability & refactoring legacy systems**  
