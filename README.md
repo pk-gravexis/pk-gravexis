@@ -8,11 +8,11 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently building: **Gravexis** – a construction equipment rental platform  
-- 💻 Tech focus: **Java, Spring Boot, NestJS, Microservices, PostgreSQL, Redis**  
+- 💻 Tech focus: **Node, Java, NestJS, Microservices, PostgreSQL, Redis**  
 - 🌱 Currently learning: **System Design, DDD, Observability, Cloud-native patterns**  
 - 👯 I’m looking to collaborate on: **scalable backend services & open-source tools**  
-- 💬 Ask me about: **Java, Spring Boot, NestJS, TypeORM, PostgreSQL, Redis, Microservices**  
-- 📫 How to reach me: **your-email@example.com**  
+- 💬 Ask me about: **Java, Spring Boot, NestJS, TypeORM, PostgreSQL, Redis, Microservices, React**  
+- 📫 How to reach me: **kumarpradeep@gmail.com**  
 - ⚡ Fun fact: I enjoy refactoring legacy code and optimizing queries 😄  
 
 ---
@@ -37,7 +37,7 @@
 
 **DevOps & Tools**
 
-`Docker` · `Kubernetes` · `Git` · `GitHub Actions` · `Jenkins` · `Postman` · `IntelliJ IDEA` · `VS Code`
+`Docker` · `Kubernetes` · `Git` · `Jenkins` · `Postman` · `IntelliJ IDEA` · `VS Code`
 
 ---
 
