@@ -14,10 +14,10 @@
     <a href="https://github.com/pk-gravexis">
       <img src="https://komarev.com/ghpvc/?username=pk-gravexis&label=Profile%20Views&style=flat"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:kumarpradeep353@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
     </a>
-    <a href="https://www.linkedin.com/in/your-link/">
+    <a href="https://www.linkedin.com/in/profile-ppradeep/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
     </a>
   </p>
@@ -172,10 +172,10 @@
 <h3>🌐 Connect With Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/profile-ppradeep/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kumarpradeep353@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/pk-gravexis" target="_blank">
