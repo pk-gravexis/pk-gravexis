@@ -81,7 +81,7 @@
 
 **Databases & Messaging**
 
-`PostgreSQL` · `MySQL` · `Redis` · `Kafka` (if you use it)  
+`PostgreSQL` · `MySQL` · `Redis` · `Kafka`  
 
 **DevOps & Tools**
 
@@ -97,8 +97,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/pk-gravexis/gravexis-backend" target="_blank" style="text-decoration:none;">
-    <div style="
+  <div style="
         display: inline-block;
         background: linear-gradient(145deg, #0d1117, #161b22);
         border: 1px solid #30363d;
@@ -125,7 +124,6 @@
         <b>🔗 <a href="https://github.com/pk-gravexis/gravexis-backend" style="color:#58a6ff;">View Backend Repo</a></b>
       </p>
     </div>
-  </a>
 
 </div>
 
